@@ -1,2 +1,1 @@
-# DataProductsAnalysisClass
-class about analysis of data products using R and R studio
+# Dimas Scratch Pad Writing Samples to share January 2018
